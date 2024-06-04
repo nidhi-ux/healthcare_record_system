@@ -1,1 +1,0 @@
-# healthcare_record_system
